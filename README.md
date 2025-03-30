@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **AI/ML projects and .NET Core Development**
 - 🌱 I’m currently learning **Japanese (N4 Level) and Advanced .NET Core**
 - 💬 Ask me about **Python, C#, ASP.NET, Web APIs, AI/ML, and SQL**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/satyamyadav/) | [GitHub](https://github.com/Coding-Professional)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/satyam-yadav-382090280/) | [GitHub](https://github.com/Coding-Professional)**
 - ⚡ Fun fact: I love coding, solving puzzles, and learning new languages!
 
 ---
