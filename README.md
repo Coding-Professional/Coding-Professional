@@ -26,7 +26,7 @@
 ---
 
 ### 📌 Featured Projects
-🚀 [**FormTeamApp**](https://github.com/Coding-Professional/FormTeamApp) - A dynamic web app built with HTML.  
+🚀 [**FormTeamApp**](https://github.com/Coding-Professional/FormTeamApp) - A dynamic web app built with HTML, Bootstarp, AngularJs .  
 💻 [**MyPortfolio**](https://github.com/Coding-Professional/myPortfolio) - My personal portfolio showcasing my work.  
 📚 [**MicrosoftAppliedSkills**](https://github.com/Coding-Professional/MicrosoftAppliedSkills) - Repository for sharing Microsoft skill knowledge.
 
