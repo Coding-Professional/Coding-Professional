@@ -26,9 +26,9 @@
 ---
 
 ### 📌 Featured Projects
-💻 [**Ai-Mock**](https://github.com/Coding-Professional/Ai-Mock)
-📚 [**API-AI-MOCK**](https://github.com/Coding-Professional/Api-Ai-Mock)
-🚀 [**FormTeamApp**](https://github.com/Coding-Professional/FormTeamApp)
+💻 [**Ai-Mock**](https://github.com/Coding-Professional/Ai-Mock)-
+📚 [**API-AI-MOCK**](https://github.com/Coding-Professional/Api-Ai-Mock)-
+🚀 [**FormTeamApp**](https://github.com/Coding-Professional/FormTeamApp)-
 
 ---
 
