@@ -38,4 +38,4 @@
 
 ---
 
-🔥 **"Code, Learn, Build, and Repeat!"**
+**"Code, Learn, Build, and Repeat!"**
